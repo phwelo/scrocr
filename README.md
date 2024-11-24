@@ -131,25 +131,3 @@ Troubleshooting
     chmod +x ocr_screenshot.py
     ```
     
-
-* * *
-
-Contributing
-------------
-
-Feel free to submit issues or pull requests if you encounter problems or have ideas for enhancements.
-
-* * *
-
-License
--------
-
-This project is open source and available under the MIT License.
-
-```vbnet
-
-### Steps to Use
-1. Replace `https://github.com/your-repo/ocr-screenshot-tool.git` with your actual repository link if applicable.
-2. Add or modify sections to match your exact use case and customization.
-
-Let me know if you’d like additional help or changes!
